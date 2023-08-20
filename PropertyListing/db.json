@@ -1,0 +1,22 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "Designation": "Engineer",
+      "salary": "99999",
+      "location": "Karnataka"
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "Employee Name": "John Doe",
+      "Employee Email": "johndoe@gmail.com",
+      "Mobile Number": 123456789,
+      "Employee Password": "johndoe@123"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
